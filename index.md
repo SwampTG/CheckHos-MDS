@@ -9,9 +9,5 @@
 
 ## Contributors
 
-## Requirements
-
-## Documentation
-
 ## License
 MIT License © 
